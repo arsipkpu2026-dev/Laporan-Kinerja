@@ -1,0 +1,11 @@
+{
+  "name": "lhk-vercel-app",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.38.0",
+    "googleapis": "^128.0.0"
+  }
+}
